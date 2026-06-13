@@ -30,7 +30,7 @@ var index_config_default = {
     list: []
   },
   danmu: {
-    urls: [{ address: "https://logo.saodu.work:8888/87654321", name: "弹幕服务" }],
+    urls: [{ address: "https://danmu.catvod.ggff.net/87654321", name: "弹幕服务" }],
     autoPush: false
   },
   color: [
